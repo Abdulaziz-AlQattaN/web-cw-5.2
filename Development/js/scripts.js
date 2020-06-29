@@ -80,7 +80,7 @@
 
 //<!-- 👇🏻👇🏻التمرين الثالث -->
 
-age = 15;
+var age = 15;
 
 let message = prompt("How old are you ?");
 
